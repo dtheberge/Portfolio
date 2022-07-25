@@ -13,14 +13,14 @@ const Clock = () => {
         let hr = time.getHours();
         const min = time.getMinutes();
         const sec = time.getSeconds();
-    
+
         const hourHand = document.getElementById("hourHand")
         const minuteHand = document.getElementById("minuteHand")
         const secondHand = document.getElementById("secondHand")
-    
-        hourHand.style.transform = `rotate(${hr*30 + min*0.5 - 180}deg)`;
-        minuteHand.style.transform = `rotate(${min*6 - 180}deg)`;
-        secondHand.style.transform = `rotate(${sec*6 - 180}deg)`;
+
+        hourHand.style.transform = `rotate(${hr * 30 + min * 0.5 - 180}deg)`;
+        minuteHand.style.transform = `rotate(${min * 6 - 180}deg)`;
+        secondHand.style.transform = `rotate(${sec * 6 - 180}deg)`;
 
         return () => {
             clearInterval(interval);

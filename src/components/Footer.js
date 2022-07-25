@@ -24,7 +24,7 @@ function Footer() {
               <a
                 href="https://github.com/dtheberge"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -34,7 +34,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/derryktheberge/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />

@@ -16,7 +16,7 @@ function AboutCard() {
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
-          <li className="about-activity">
+            <li className="about-activity">
               <IoIosArrowForward /> Reading
             </li>
             <li className="about-activity">
@@ -37,7 +37,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "#2D82B7", textAlign: "left" }}>
-          “Research is to see what everybody else has seen, and to think what nobody else has thought.” {" "}
+            “Research is to see what everybody else has seen, and to think what nobody else has thought.” {" "}
           </p>
           <footer className="blockquote-footer">Albert Szent-Györgyi</footer>
         </blockquote>

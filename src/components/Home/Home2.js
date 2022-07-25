@@ -23,7 +23,7 @@ function Home2() {
               <br /><br />
               Not willing to negoitiate these two passions I got two bachelors at the University of South Florida. I am now continuing into a Masters of computer science.
               <br /><br />
-              I am fluent in languages such as 
+              I am fluent in languages such as
               <i>
                 <b className="purple"> C, C++, Java, Python, and Matlab. </b>
               </i>
