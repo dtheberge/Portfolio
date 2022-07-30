@@ -19,7 +19,7 @@ function Home2() {
               A LITTLE ABOUT  <span className="purple"> MY STORY </span>
             </h1>
             <p className="home-about-body">
-              Since I was in primary school, I have loved mathematics. As I entered HS, I also discovered Programming and its math-like structure and logic.  🤷‍♂️
+              Since I was in primary school, I have loved mathematics. As I entered HS, I also discovered programming and its math-like structure and logic.  🤷‍♂️
               <br /><br />
               Not willing to negotiate these two passions I got two bachelors at the University of South Florida. I am now continuing into a Masters of computer science.
               <br /><br />

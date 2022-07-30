@@ -31,7 +31,7 @@ function Projects() {
               title="eMesh.io"
               label_1="Github"
               label_2=" DevPost"
-              description="Hardware device that enables the users to have a long-range communications device without the need for wifi. It uses the rfm69 module to send data between raspberry pis. We also have an app that allows the user to use their phone to communicate with the pis and the network via Bluetooth"
+              description="Hardware device that enables the users to have a long-range communications device without the need for wifi. It uses the rfm69 module to send data between raspberry pis. We also have an app that allows the user to use their phone to communicate with the pis and the network via Bluetooth."
               link_1="https://github.com/wmcclinton/eMesh.io"
               link_2="https://devpost.com/software/emesh-io"
             />
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Terminal Pokemon"
               label_1="Github"
-              description="Reformed the original Pokemon game to work in the Windows or Linux Terminal. This project I aimed to use most all Object Oriented Programming strategies such as Polymorphism, Encapsulation, Inheritance, etc. Programming in language C++."
+              description="Reformed the original Pokemon game to work in the Windows or Linux Terminal. This project I aimed to use the primary Object Oriented Programming strategies such as Polymorphism, Encapsulation, Inheritance, and Abstraction. Programmed in language C++."
               link_1="https://github.com/dtheberge/PokemonProject"
             // link_2=""              
             />
@@ -68,7 +68,7 @@ function Projects() {
               imgPath={GoTask}
               isBlog={false}
               title="GoTask"
-              description="Collaborated with the Company OnTask to use their eSignature and Automated Workflows into an easy to use and appealing Google Chrome extension. This was so that their functionality can be used without leaving the comfort of you Google Docs or Sheet to start your workflow with that document. This was programmed by a team and I using Axios, Javascript, and HTML, in an Agile setting"
+              description="Collaborated with the Company OnTask to use their eSignature and Automated Workflows into an easy to use and appealing Google Chrome extension. This was so that their functionality can be used without leaving the comfort of your Google Docs or Sheet to start your workflow with that document. This was programmed by a team and I using Axios, Javascript, and HTML, in an Agile setting."
             // link_1=""
             // link_2=""
             />
