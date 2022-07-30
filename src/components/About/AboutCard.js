@@ -13,7 +13,7 @@ function AboutCard() {
             <br /><br />I am a current graduate student pursuing a Master's in Computer Science from the <span className="purple">Georgia Institute of Technology.</span>
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do
           </p>
           <ul>
             <li className="about-activity">
@@ -29,7 +29,7 @@ function AboutCard() {
               <IoIosArrowForward /> Playing Games
             </li>
             <li className="about-activity">
-              <IoIosArrowForward /> Various Projects
+              <IoIosArrowForward /> Software Projects
             </li>
             <li className="about-activity">
               <IoIosArrowForward /> Learning Languages
