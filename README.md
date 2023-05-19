@@ -1,14 +1,11 @@
 <h2 align="center">
-  Portfolio Website<br/>
+  My Portfolio = )<br/>
   <a href="http://dtheberge.com/" target="_blank">dtheberge.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 <br/>
-
-## Built With :heart:
-
 My personal portfolio <a href="http://dtheberge.com/" target="_blank">dtheberge.com</a> which features some of my github projects, my resume, and technical skills.<br/>
 
 This project was built using these technologies.
