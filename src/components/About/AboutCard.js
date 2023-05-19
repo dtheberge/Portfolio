@@ -10,14 +10,14 @@ function AboutCard() {
           <p style={{ textAlign: "Left" }}>
             Hello, I am <span className="purple">Derryk Theberge </span>
             located in <span className="purple"> Oklahoma.</span>
-            <br /><br />I am a current graduate student pursuing a Masters in Computer Science from the <span className="purple">Georgia Institute of Technology.</span>
+            <br /><br />Currently, a software engineer at Northrop Grumman. Additionally a graduate student pursuing a Masters in Computer Science from the <span className="purple">Georgia Institute of Technology.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do
           </p>
           <ul>
             <li className="about-activity">
-              <IoIosArrowForward /> Reading
+              <IoIosArrowForward /> Ice Skating
             </li>
             <li className="about-activity">
               <IoIosArrowForward /> Tutoring

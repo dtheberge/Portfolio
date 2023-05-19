@@ -91,7 +91,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 href="https://scratchie-notes.notion.site/Scratchie-Notes-dce9e0fbf27d4a24be3a75f54bf2cd15"
                 target="_blank"
@@ -99,7 +99,7 @@ function NavBar() {
               >
                 <GoPencil style={{ marginBottom: "2px" }} /> Notes
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             {/* <Nav.Item className="fork-btn">
               <Button
