@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53f732ff.css",
+    "main.js": "/static/js/main.c0b2b688.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/theberge_resume.pdf": "/static/media/theberge_resume.395b5af225def52d05a3.pdf",
+    "static/media/blue-safe.png": "/static/media/blue-safe.904481f7856db50681d1.png",
+    "static/media/Voronoi.png": "/static/media/Voronoi.bb1075203015dc76f04e.png",
+    "static/media/eMesh.png": "/static/media/eMesh.adc1380d4572184060b1.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/gotask.png": "/static/media/gotask.c06c4bf11bccf5a2fef6.png",
+    "static/media/pokemon.png": "/static/media/pokemon.e1439fb06ca568cdcebf.png",
+    "static/media/avatar.svg": "/static/media/avatar.444556f42cb723429eedf91e73a90b0b.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/blob-scene-haikei.svg": "/static/media/blob-scene-haikei.2a8aa570350b47f08740.svg",
+    "index.html": "/index.html",
+    "main.53f732ff.css.map": "/static/css/main.53f732ff.css.map",
+    "main.c0b2b688.js.map": "/static/js/main.c0b2b688.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f732ff.css",
+    "static/js/main.c0b2b688.js"
+  ]
+}
